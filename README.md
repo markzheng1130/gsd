@@ -1,0 +1,2 @@
+# gsd
+Go Sticker Downloader
