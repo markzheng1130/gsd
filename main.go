@@ -1,9 +1,11 @@
 package main
 
 import (
+	"fmt"
 	"gsd/hello"
 )
 
 func main() {
-	hello.Hello()
+	s := hello.Hello("mark")
+	fmt.Printf("%s", s)
 }
