@@ -7,5 +7,5 @@ import (
 
 func main() {
 	s := hello.Hello("mark")
-	fmt.Printf("%s", s)
+	fmt.Printf("%s\n", s)
 }
